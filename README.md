@@ -8,3 +8,6 @@
    * [1.3 乘法效应](book/multiplication.md)
    * [1.4 职业成长路径](book/growth.md)
    * [1.5 技术和产品的关系](book/relation.md)
+
+[问题清单]
+* [7. 问题清单](book/questionlist.md)
