@@ -9,5 +9,10 @@
    * [1.4 职业成长路径](book/growth.md)
    * [1.5 技术和产品的关系](book/relation.md)
 
+* [2. 进阶篇-沟通](book/communication.md)
+
+* [3. 进阶篇-识人](book/look.md)
+   * [3.1 如何判断领导是在压榨你还是在培养你](book/cultivate.md)
+
 [问题清单]
 * [7. 问题清单](book/questionlist.md)
